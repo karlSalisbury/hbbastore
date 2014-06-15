@@ -1,0 +1,29 @@
+.white a:link, .white a:visited{
+        background-color: #f0efef!important;
+    }
+    .black a:link, .black a:visited{
+        background-color: #000!important;
+    }
+    .brown a:link, .brown a:visited{
+        background-color: #594a41!important;    
+    }
+    .orange a:link, .orange a:visited{
+        background-color: #f05a28!important;    
+    }
+    .yellow a:link, .yellow a:visited{
+        background-color: #fff100!important;    
+    }
+    .checks a:link, .checks a:visited{
+        background-image: url('../images/checks.png');
+        background-size: cover;
+    }
+    .floral a:link, .floral a:visited{
+        background-image: url('../images/floral.png');
+        background-size: cover;
+    }
+        .navy a:link, .navy a:visited{
+        background-color: #052956!important;    
+    }
+    .green a:link, .green a:visited{
+        background-color: #337f00!important;    
+    }
